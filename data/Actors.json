@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Elijah Law","characterIndex":0,"characterName":"Elijah Law","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Elijah Law","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elijah (Breaks) law","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Elijah Law","characterIndex":0,"characterName":"Elijah Law","classId":3,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Elijah Law","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elijah (Breaks) law","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"Sans skin 2 3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Sans skin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sans skin","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"Elijah Law Space soilder skin (1)","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Space soukder skin","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"Justin Hughes","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Justin Hughes","nickname":"","note":"","profile":""}
